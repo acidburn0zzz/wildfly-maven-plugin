@@ -96,7 +96,7 @@
 
         <!-- other dependencies -->
         <version.junit.junit>4.12</version.junit.junit>
-        <version.org.apache.commons.compress>1.14</version.org.apache.commons.compress>
+        <version.org.apache.commons.compress>1.21</version.org.apache.commons.compress>
         <version.org.mockito.mockito>2.8.47</version.org.mockito.mockito>
 
         <!-- plugin versions -->
